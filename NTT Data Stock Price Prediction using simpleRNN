@@ -1,3 +1,0 @@
-This Project predicts the output of NTT data share price using RNN ( Recurrent Neural Networks) model. The data was taken from yahoo finance, company name - NTT data. 
-
-In RNN model there are 5 layers with output layer, complied with optimizer as adam and loss as mean_suqred_error. Epochs as 200 and batch size is 32 with displaying the accuracy and loss. 
